@@ -2,3 +2,4 @@ uvloop==0.8.0
 tornado==4.4.2
 pika==0.10.0
 psycopg2==2.7.1
+momoko==2.2.4
