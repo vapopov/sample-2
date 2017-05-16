@@ -1,0 +1,9 @@
+/.vagrant
+*.pyc
+*.swo
+*.swp
+venv
+env
+.idea
+*.sublime-*
+.DS_Store
